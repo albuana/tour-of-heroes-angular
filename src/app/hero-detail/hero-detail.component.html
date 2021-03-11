@@ -1,0 +1,17 @@
+<div *ngIf="hero">
+  <h2>{{hero.name | uppercase}} Details</h2>
+  <div><span>id: </span>{{hero.id}}</div>
+  <div>
+    <label for="hero-name">Hero name: </label>
+    <input id="hero-name" [(ngModel)]="hero.name" placeholder="Hero name" />
+
+  </div>
+  <button (click)="goBack()">go back</button>
+  <button (click)="save()">save</button>
+  
+  <h2>Choose your pet:</h2>
+  <select [(ngModel)]="pet">
+      <option style="width: 60px;" *ngFor="let pet of pets" [ngValue]="pet" >{{pet.name}} </option>
+  </select>
+  <button (click)="addPet(pet)"> save pet</button>
+</div>
