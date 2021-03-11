@@ -36,6 +36,8 @@
 </ul>
 
 #### Como correr o exercicio?
+
+
 - Abrir um terminal na pasta ```tour-of-heroes-angular/``` e executar o comando npm install;
 - Nessa mesma pasta fazer ng serve;
 - Abrir o browser o http://localhost:4200/ indicado pela consola.
