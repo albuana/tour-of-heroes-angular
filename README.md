@@ -1,6 +1,8 @@
-## tour-of-heroes
+<h2 align="center"> 
+	 tour-of-heroes-angular 💻 DONE ✅
+</h2>
 
-<h3 id="yui_3_17_2_1_1615490989531_21">Angular</h3>
+<h2 id="yui_3_17_2_1_1615490989531_21">Angular</h2>
 <ul>
 <li>Na <a href="https://angular.io/docs">documentação do Angular</a> ler os capítulos<br>
 <ul>
