@@ -1,6 +1,6 @@
-### tour-of-heroes
+## tour-of-heroes
 
-<h4 id="yui_3_17_2_1_1615490989531_21">Angular</h4>
+<h3 id="yui_3_17_2_1_1615490989531_21">Angular</h3>
 <ul>
 <li>Na <a href="https://angular.io/docs">documentação do Angular</a> ler os capítulos<br>
 <ul>
@@ -11,11 +11,11 @@
 </ul>
 </li>
 </ul>
-<h4>Preparação do Exercício</h4>
+<h2>Preparação do Exercício</h2>
 <ol>
 <li>Executar o tutorial "<a href="https://angular.io/tutorial">Tour of Heroes</a>" na tua máquina de desenvolvimento (ou em alternativa no <a href="https://stackblitz.com/">stackblitz</a>)</li>
 </ol>
-<h4>Exercício</h4>
+<h2>Exercício</h2>
 <ul>
 <li>Partindo da base construída na preparação do exercício, acrescentar as seguintes funcionalidades:<ol>
 <li>Pets
@@ -35,9 +35,8 @@
 </ol></li>
 </ul>
 
-#### Como correr o exercicio?
-
-
+## Como correr o exercicio?
+- É necessário tem o angular cli instalado. Consultar em https://cli.angular.io;
 - Abrir um terminal na pasta ```tour-of-heroes-angular/``` e executar o comando npm install;
 - Nessa mesma pasta fazer ng serve;
 - Abrir o browser o http://localhost:4200/ indicado pela consola.
